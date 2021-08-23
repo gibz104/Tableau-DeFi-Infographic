@@ -8,4 +8,4 @@ https://public.tableau.com/views/DSC465FinalInfographicRossGibson/Infographic
 https://public.tableau.com/app/profile/ross.gibson4865/viz/DSC465TransactionTypeBarChartAnimation/BarChartRaceAnimation
 
 Animation:
-[<img src="Infographic.png">](https://public.tableau.com/app/profile/ross.gibson4865/viz/DSC465TransactionTypeBarChartAnimation/BarChartRaceAnimation)
+[<img src="Bar Chart Race (Animation).png">](https://public.tableau.com/app/profile/ross.gibson4865/viz/DSC465TransactionTypeBarChartAnimation/BarChartRaceAnimation)
