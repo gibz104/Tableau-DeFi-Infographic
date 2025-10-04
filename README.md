@@ -3,10 +3,6 @@ Tableau Infographic showing the rise in DeFi on Ethereum network from Sep 2020 t
   
 Transactions were analyzed using the eth historical transaction script <a href="https://github.com/gibz104/eth-historical-transactions">here</a>.
 
-https://public.tableau.com/views/DSC465FinalInfographicRossGibson/Infographic
-
 [<img src="Infographic.png">](https://public.tableau.com/views/DSC465FinalInfographicRossGibson/Infographic)
-
-https://public.tableau.com/app/profile/ross.gibson4865/viz/DSC465TransactionTypeBarChartAnimation/BarChartRaceAnimation
 
 [<img src="Bar Chart Race (Animation).png">](https://public.tableau.com/app/profile/ross.gibson4865/viz/DSC465TransactionTypeBarChartAnimation/BarChartRaceAnimation)
